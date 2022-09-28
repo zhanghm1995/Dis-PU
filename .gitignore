@@ -1,0 +1,7 @@
+__pycache__/
+**/__pycache__/
+**.so
+**.cu.o
+data/PUGAN_poisson_256_poisson_1024.h5
+build/
+log/
